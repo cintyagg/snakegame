@@ -1,0 +1,16 @@
+body {
+    height: 95vh;
+    width: 95vw;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+    color: #cf0404;
+    font-family: 'Press Start 2P', cursive;
+    font-weight: bold;
+    background-image: url("./floresta.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
